@@ -6,7 +6,8 @@ void mergeSort(int arr[] , int si , int ei){
     int mid = si+(ei-si)/2;
     mergeSort(arr,si,mid);
     mergeSort(arr,mid+1,ei);
-    merge(arr,si,mid,ei);    
+    merge(arr,si,mid,ei);   
+     
 }
 
 
