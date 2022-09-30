@@ -17,4 +17,5 @@ int main()
     cout<<"float"<<endl;
     cout<<"double"<<endl;
     cout<<"long double"<<endl;
+    
 }
