@@ -1,5 +1,6 @@
 /*
-    Write a C++ program to find prime number for given list
+        Program: 3
+    Write a C++ program to find prime number for given list.
 */
 
 #include <iostream>
